@@ -1,1 +1,1 @@
-a pretty simple rock paper scissors game of javascript learning 
+a pretty simple rock paper scissors game for javascript learning 
